@@ -1,0 +1,48 @@
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\bin\Debug\database.mdf
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\bin\Debug\database_log.ldf
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\bin\Debug\Artigos.exe
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\bin\Debug\Artigos.pdb
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.Cadastrar.resources
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.Listar.resources
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\BoaIdeia.csproj.GenerateResource.Cache
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.exe
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.pdb
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\BoaIdeia.csprojResolveAssemblyReference.cache
+C:\Users\daan_\Desktop\Boa-Ideia\Boa-Ideia\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\daan_\Desktop\Boa-Ideia\Boa-Ideia\Artigos\obj\Debug\Artigos.exe
+C:\Users\daan_\Desktop\Boa-Ideia\Boa-Ideia\Artigos\obj\Debug\Artigos.pdb
+C:\Users\daan_\Desktop\Boa-Ideia\Boa-Ideia\Artigos\bin\Debug\database.mdf
+C:\Users\daan_\Desktop\Boa-Ideia\Boa-Ideia\Artigos\bin\Debug\database_log.ldf
+C:\Users\daan_\Desktop\Boa-Ideia\Boa-Ideia\Artigos\bin\Debug\Artigos.exe
+C:\Users\daan_\Desktop\Boa-Ideia\Boa-Ideia\Artigos\bin\Debug\Artigos.pdb
+C:\Users\daan_\Desktop\Boa-Ideia\Boa-Ideia\Artigos\obj\Debug\BoaIdeia.csprojResolveAssemblyReference.cache
+C:\Users\daan_\Desktop\Boa-Ideia\Boa-Ideia\Artigos\obj\Debug\Artigos.Cadastrar.resources
+C:\Users\daan_\Desktop\Boa-Ideia\Boa-Ideia\Artigos\obj\Debug\Artigos.Listar.resources
+C:\Users\daan_\Desktop\Boa-Ideia\Boa-Ideia\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+C:\Users\daan_\Desktop\Boa-Ideia\Boa-Ideia\Artigos\obj\Debug\BoaIdeia.csproj.GenerateResource.Cache
+C:\Users\daan_\Desktop\Boa-Ideia\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\daan_\Desktop\Boa-Ideia\Artigos\obj\Debug\Artigos.exe
+C:\Users\daan_\Desktop\Boa-Ideia\Artigos\obj\Debug\Artigos.pdb
+C:\Users\daan_\Desktop\Boa-Ideia\Artigos\bin\Debug\database.mdf
+C:\Users\daan_\Desktop\Boa-Ideia\Artigos\bin\Debug\database_log.ldf
+C:\Users\daan_\Desktop\Boa-Ideia\Artigos\bin\Debug\Artigos.exe
+C:\Users\daan_\Desktop\Boa-Ideia\Artigos\bin\Debug\Artigos.pdb
+C:\Users\daan_\Desktop\Boa-Ideia\Artigos\obj\Debug\BoaIdeia.csprojResolveAssemblyReference.cache
+C:\Users\daan_\Desktop\Boa-Ideia\Artigos\obj\Debug\Artigos.Cadastrar.resources
+C:\Users\daan_\Desktop\Boa-Ideia\Artigos\obj\Debug\Artigos.Listar.resources
+C:\Users\daan_\Desktop\Boa-Ideia\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+C:\Users\daan_\Desktop\Boa-Ideia\Artigos\obj\Debug\BoaIdeia.csproj.GenerateResource.Cache
+E:\Executaveis liberados\GitHub\Boa-Ideia\Artigos\bin\Debug\database.mdf
+E:\Executaveis liberados\GitHub\Boa-Ideia\Artigos\bin\Debug\database_log.ldf
+E:\Executaveis liberados\GitHub\Boa-Ideia\Artigos\bin\Debug\Artigos.exe.config
+E:\Executaveis liberados\GitHub\Boa-Ideia\Artigos\bin\Debug\Artigos.exe
+E:\Executaveis liberados\GitHub\Boa-Ideia\Artigos\bin\Debug\Artigos.pdb
+E:\Executaveis liberados\GitHub\Boa-Ideia\Artigos\obj\Debug\BoaIdeia.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\GitHub\Boa-Ideia\Artigos\obj\Debug\Artigos.Cadastrar.resources
+E:\Executaveis liberados\GitHub\Boa-Ideia\Artigos\obj\Debug\Artigos.Listar.resources
+E:\Executaveis liberados\GitHub\Boa-Ideia\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+E:\Executaveis liberados\GitHub\Boa-Ideia\Artigos\obj\Debug\BoaIdeia.csproj.GenerateResource.Cache
+E:\Executaveis liberados\GitHub\Boa-Ideia\Artigos\obj\Debug\Artigos.exe
+E:\Executaveis liberados\GitHub\Boa-Ideia\Artigos\obj\Debug\Artigos.pdb

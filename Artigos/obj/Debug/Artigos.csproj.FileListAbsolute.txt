@@ -1,0 +1,169 @@
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\bin\Debug\Artigos.exe
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\bin\Debug\Artigos.pdb
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.Dashboard.resources
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.Login.resources
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.exe
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.pdb
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\bin\Debug\database.mdf
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\bin\Debug\database_log.ldf
+C:\Users\Jorge\Documents\faculdade\sexta\Artigos\Artigos\obj\Debug\Artigos.Cadastrar.resources
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.exe
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.pdb
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\bin\Debug\database.mdf
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\bin\Debug\database_log.ldf
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\bin\Debug\Artigos.exe
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\bin\Debug\Artigos.pdb
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.Cadastrar.resources
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.Dashboard.resources
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.ListarUsuario.resources
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.Login.resources
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+C:\Users\Jorge\Documents\faculdade\sexta\ArtigosProfessor\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+E:\Download\Executáveis liberados\Artigos\bin\Debug\Artigos.exe.config
+E:\Download\Executáveis liberados\Artigos\obj\Debug\Artigos.exe
+E:\Download\Executáveis liberados\Artigos\obj\Debug\Artigos.pdb
+E:\Download\Executáveis liberados\Artigos\bin\Debug\database.mdf
+E:\Download\Executáveis liberados\Artigos\bin\Debug\database_log.ldf
+E:\Download\Executáveis liberados\Artigos\bin\Debug\Artigos.exe
+E:\Download\Executáveis liberados\Artigos\bin\Debug\Artigos.pdb
+E:\Download\Executáveis liberados\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+E:\Download\Executáveis liberados\Artigos\obj\Debug\Artigos.Cadastrar.resources
+E:\Download\Executáveis liberados\Artigos\obj\Debug\Artigos.Dashboard.resources
+E:\Download\Executáveis liberados\Artigos\obj\Debug\Artigos.ListarUsuario.resources
+E:\Download\Executáveis liberados\Artigos\obj\Debug\Artigos.Login.resources
+E:\Download\Executáveis liberados\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+E:\Download\Executáveis liberados\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+E:\Download\Executáveis liberados\Artigos\obj\Debug\Artigos.CadArtigo.resources
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\obj\Debug\Artigos.exe
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\obj\Debug\Artigos.pdb
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\bin\Debug\database.mdf
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\bin\Debug\database_log.ldf
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\bin\Debug\Artigos.exe
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\bin\Debug\Artigos.pdb
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\obj\Debug\Artigos.CadArtigo.resources
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\obj\Debug\Artigos.Cadastrar.resources
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\obj\Debug\Artigos.Dashboard.resources
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\obj\Debug\Artigos.ListarUsuario.resources
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\obj\Debug\Artigos.Login.resources
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+C:\Users\daan_\Google Drive\Arquivos Pessoal\Faculdade e Adendos\5º Semestre\Interface Homem Máquina\Executáveis liberados\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\bin\Debug\Artigos.exe.config
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.exe
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.pdb
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\bin\Debug\database.mdf
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\bin\Debug\database_log.ldf
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\bin\Debug\Artigos.exe
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\bin\Debug\Artigos.pdb
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.CadArtigo.resources
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.Cadastrar.resources
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.Dashboard.resources
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.ListarUsuario.resources
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.Login.resources
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.ArtigosList.resources
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.NovosArtigoscs.resources
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.Revisados.resources
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.Revisoes.resources
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.Demais.resources
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.Revisar.resources
+E:\Executaveis liberados\Artigo\Executáveis liberados\Artigos\obj\Debug\Artigos.Justificativa.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\bin\Debug\Artigos.exe.config
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.exe
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.pdb
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\bin\Debug\database.mdf
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\bin\Debug\database_log.ldf
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\bin\Debug\Artigos.exe
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\bin\Debug\Artigos.pdb
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.ArtigosList.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.CadArtigo.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.Cadastrar.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.Dashboard.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.Demais.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.Justificativa.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.ListarUsuario.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.Login.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.NovosArtigoscs.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.Revisados.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.Revisar.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.Revisoes.resources
+E:\executaveis liberados\Artigo II\Executáveis liberados\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\bin\Debug\Artigos.exe.config
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.exe
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.pdb
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\bin\Debug\database.mdf
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\bin\Debug\database_log.ldf
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\bin\Debug\Artigos.exe
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\bin\Debug\Artigos.pdb
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.ArtigosList.resources
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.CadArtigo.resources
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.Cadastrar.resources
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.Dashboard.resources
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.Demais.resources
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.Justificativa.resources
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.ListarUsuario.resources
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.Login.resources
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.NovosArtigoscs.resources
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.Revisados.resources
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.Revisar.resources
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.Revisoes.resources
+E:\executaveis liberados\Artigo II\Pub-art\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\bin\Debug\database.mdf
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\bin\Debug\database_log.ldf
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\bin\Debug\Artigos.exe
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\bin\Debug\Artigos.pdb
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.ArtigosList.resources
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.CadArtigo.resources
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.Cadastrar.resources
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.Dashboard.resources
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.Demais.resources
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.Justificativa.resources
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.ListarUsuario.resources
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.Login.resources
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.NovosArtigoscs.resources
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.Revisados.resources
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.Revisar.resources
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.Revisoes.resources
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.exe
+C:\Users\daan_\Google Drive\GitHub\Pub-art\Artigos\obj\Debug\Artigos.pdb
+C:\Users\daan_\Google Drive\GitHub\Boa-Ideia\Pub-art\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\daan_\Google Drive\GitHub\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.exe
+C:\Users\daan_\Google Drive\GitHub\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.pdb
+C:\Users\daan_\Google Drive\GitHub\Boa-Ideia\Pub-art\Artigos\bin\Debug\database.mdf
+C:\Users\daan_\Google Drive\GitHub\Boa-Ideia\Pub-art\Artigos\bin\Debug\database_log.ldf
+C:\Users\daan_\Google Drive\GitHub\Boa-Ideia\Pub-art\Artigos\bin\Debug\Artigos.exe
+C:\Users\daan_\Google Drive\GitHub\Boa-Ideia\Pub-art\Artigos\bin\Debug\Artigos.pdb
+C:\Users\daan_\Google Drive\GitHub\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+C:\Users\daan_\Google Drive\GitHub\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.Cadastrar.resources
+C:\Users\daan_\Google Drive\GitHub\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+C:\Users\daan_\Google Drive\GitHub\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
+C:\Users\daan_\Google Drive\GitHub\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.Listar.resources
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\bin\Debug\Artigos.exe.config
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.exe
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.pdb
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\bin\Debug\database.mdf
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\bin\Debug\database_log.ldf
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\bin\Debug\Artigos.exe
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\bin\Debug\Artigos.pdb
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.csprojResolveAssemblyReference.cache
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.Cadastrar.resources
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.Listar.resources
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.Properties.Resources.resources
+C:\Users\daan_\Desktop\Boa-Ideia\Pub-art\Artigos\obj\Debug\Artigos.csproj.GenerateResource.Cache
